@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CTHEDESTROYER
+- 👋 Hi, I’m @Cal-vin96
 - 👀 I’m interested in learning more about the way people digitally interact with the world
 - 🌱 I’m currently self-learning python
 - 💞️ I’m looking to collaborate on virtually anything
